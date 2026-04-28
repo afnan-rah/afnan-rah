@@ -6,7 +6,7 @@ Data Science and Criminal Justice @ MSU | Cyber, SQL, Python, C++, Git, reproduc
 
 I'm Afnan Rahman, a senior at Michigan State University pursuing dual degrees in Data Science and Criminal Justice, with a concentration in Cyber Investigations. Through my internships at Rocket and Loc Performance, I've gained experience in analytics, cybersecurity, cloud security, and compliance auditing, working with frameworks like SOC, SOX, and NIST while supporting audit preparation, risk assessments, cloud security reviews, and data-driven security initiatives across AWS and GCP environments. I've used Python, SQL, C++, and machine learning to build analytics pipelines, forecasting models, automation tools, and dashboards that turn complex data into practical insights. What matters most to me is producing work that stakeholders can trust by validating results carefully, challenging weak assumptions, and making sure the final product is both accurate and useful.
 
-You can find more details one my [portfolio page](https://YOUR_USERNAME.github.io/portfolio-repo/](https://afnan-rah.github.io/-afnan-rah-.github.io/)).
+You can find more details one my ([portfolio page](https://afnan-rah.github.io/-afnan-rah-.github.io/)).
 
 ## Featured Projects
 
